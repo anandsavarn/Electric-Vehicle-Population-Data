@@ -1,7 +1,7 @@
 🔋 Project Title: Electric Vehicle Population Data Analysis
 📘 Project Description: 
 This data science project explores and analyzes the Electric Vehicle (EV) population dataset to uncover insights into the growing adoption of EVs across regions. The dataset includes details such as vehicle types, makes, models, model years, electric range, and more.
-
+  
 The goal of the project is to identify trends, usage patterns, regional adoption rates, and correlations that can guide policymakers, manufacturers, and consumers in making data-driven decisions about electric mobility.  
   
 📊 Key Objectives:
