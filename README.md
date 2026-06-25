@@ -5,7 +5,7 @@ This data science project explores and analyzes the Electric Vehicle (EV) popula
 The goal of the project is to identify trends, usage patterns, regional adoption rates, and correlations that can guide policymakers, manufacturers, and consumers in making data-driven decisions about electric mobility.  
     
 📊 Key Objectives:
-🔍 Data Cleaning & Preprocessing: Handle missing values, standardize formats, and prepare data for analysis. 
+🔍 Data Cleaning & Preprocessing: Handle missing values, standardize formats, and prepare data for analysis.   
  
 📈 Trend Analysis: Track the growth of EVs over time, by region, and by vehicle type (Battery Electric, Plug-in Hybrid).
   
