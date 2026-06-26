@@ -6,7 +6,6 @@
 <br/>
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -29,7 +28,7 @@
 ## 📸 Dashboard Preview
 
 <div align="center">
-<img src="assets/ev-dashboard-preview.png" alt="Electric Vehicle Population Dashboard" width="95%"/>
+<img src="https://github.com/anandsavarn/Electric-Vehicle-Population-Data/blob/main/Charts%20img.zip" alt="Electric Vehicle Population Dashboard" width="95%"/>
 
 > *Interactive dashboard showing EV growth trends, geographic distribution, manufacturer rankings, and vehicle type breakdown across US states.*
 </div>
