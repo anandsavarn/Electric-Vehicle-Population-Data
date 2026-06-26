@@ -28,7 +28,7 @@
 ## 📸 Dashboard Preview
 
 <div align="center">
-<img src="https://github.com/anandsavarn/Electric-Vehicle-Population-Data/blob/main/Charts%20img.zip" alt="Electric Vehicle Population Dashboard" width="95%"/>
+<img src="https://drive.google.com/file/d/1YHVE9dyBJqn3ZPNCDNKfggP-uYu0E9Qd/view?usp=drive_link" alt="Electric Vehicle Population Dashboard" width="95%"/>
 
 > *Interactive dashboard showing EV growth trends, geographic distribution, manufacturer rankings, and vehicle type breakdown across US states.*
 </div>
